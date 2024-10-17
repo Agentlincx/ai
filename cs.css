@@ -1,7 +1,7 @@
 body {
     background-color: #0D0D0D;
     color: #fff;
-    font-size: 2em;
+    font-size: 1em;
 }
 
 :root {
@@ -14,7 +14,7 @@ body {
 #b1 {
     padding: 20px 30px 30px;
     background-color: var(--c);
-    width: 50%;
+    width: 300px;
     position: absolute;
     bottom: 0;
     right: 0;
